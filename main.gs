@@ -1,6 +1,5 @@
 Const = {
   webhookUrl: "https://hooks.slack.com/services/XXXXXXXXXXXXX",
-  channelId: "XXXXXXXX", //connpass-notify,
   spreadSheetId: "XXXXXXXXXXXXX",
   sheetName: "data",
   lastcheckedTimestampIndex: 0
